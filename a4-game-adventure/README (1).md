@@ -1,6 +1,6 @@
 # A04 — Hunt the Wumpus (C++)
 
-Grid-based cave adventure with hazards and hints. The player explores rooms to find **gold** and return to the **escape rope** while avoiding the **Wumpus** and other hazards. Supports a **debug mode** that reveals event locations; otherwise only percepts (hints) print when adjacent. Fire arrows up to three rooms in a direction to try to slay the Wumpus. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
+Grid-based cave adventure with hazards and hints. The player explores rooms to find **gold** and return to the **escape rope** while avoiding the **Wumpus** and other hazards. Supports a **debug mode** that reveals event locations; otherwise only percepts (hints) print when adjacent. Fire arrows up to three rooms in a direction to try to slay the Wumpus. 
 
 ## TL;DR
 - OOP with abstract `Event` and derived `Wumpus`, `Gold`, `Pool`, `Stalactites`; polymorphic `percept()` / `encounter()` / `print_symbol()` 
