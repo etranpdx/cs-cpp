@@ -1,0 +1,221 @@
+Playlist: SummerVibes
+-------------------------------
+Name: Cruel_Summer
+Artist: Taylor_Swift
+Year Released: 2019
+Length: 4.12 minutes
+Genre: Pop
+Restriction: None
+-------------------------------
+-------------------------------
+Name: Beach_Breeze
+Artist: Kygo_ft._Sia
+Year Released: 2019
+Length: 3.83 minutes
+Genre: Others
+Restriction: None
+-------------------------------
+-------------------------------
+Name: Island_Dreamer
+Artist: Bob_Marley
+Year Released: 1980
+Length: 5.5 minutes
+Genre: Others
+Restriction: None
+-------------------------------
+-------------------------------
+Name: Ocean_Serenity
+Artist: Adele
+Year Released: 2015
+Length: 4.67 minutes
+Genre: Pop
+Restriction: None
+-------------------------------
+Playlist: ChillJams
+-------------------------------
+Name: Midnight_Blues
+Artist: John_Mayer
+Year Released: 2006
+Length: 6.33 minutes
+Genre: Jazz
+Restriction: None
+-------------------------------
+-------------------------------
+Name: Rainy_Day_Jazz
+Artist: Norah_Jones
+Year Released: 2002
+Length: 4.75 minutes
+Genre: Jazz
+Restriction: None
+-------------------------------
+-------------------------------
+Name: Acoustic_Serenade
+Artist: Ed_Sheeran
+Year Released: 2014
+Length: 3.92 minutes
+Genre: Pop
+Restriction: None
+-------------------------------
+-------------------------------
+Name: Mellow_Melodies
+Artist: Lana_Del_Rey
+Year Released: 2018
+Length: 5.17 minutes
+Genre: Pop
+Restriction: None
+-------------------------------
+Playlist: WorkoutBeats
+-------------------------------
+Name: Energetic_Pulse
+Artist: Dua_Lipa
+Year Released: 2021
+Length: 3.5 minutes
+Genre: Pop
+Restriction: None
+-------------------------------
+-------------------------------
+Name: Power_Surge
+Artist: Imagine_Dragons
+Year Released: 2017
+Length: 4 minutes
+Genre: Rock
+Restriction: None
+-------------------------------
+-------------------------------
+Name: Cardio_Groove
+Artist: The_Weeknd
+Year Released: 2019
+Length: 3.75 minutes
+Genre: R&B
+Restriction: None
+-------------------------------
+-------------------------------
+Name: Pump_It_Up
+Artist: Eminem
+Year Released: 2002
+Length: 4.17 minutes
+Genre: Rap
+Restriction: E
+-------------------------------
+-------------------------------
+Name: Beast_Mode
+Artist: AC/DC
+Year Released: 1980
+Length: 3.42 minutes
+Genre: Rock
+Restriction: None
+-------------------------------
+-------------------------------
+Name: High_Intensity
+Artist: Linkin_Park
+Year Released: 2003
+Length: 2.92 minutes
+Genre: Rock
+Restriction: None
+-------------------------------
+Playlist: ChillStudyPlaylist
+-------------------------------
+Name: Space_Song
+Artist: Beach_House
+Year Released: 2015
+Length: 5.4 minutes
+Genre: Alternative
+Restriction: None
+-------------------------------
+-------------------------------
+Name: For_the_First_Time
+Artist: Mac_DcMarco
+Year Released: 2017
+Length: 3 minutes
+Genre: Alternative
+Restriction: None
+-------------------------------
+-------------------------------
+Name: Worldstar_Money_Interlude
+Artist: Joji
+Year Released: 2017
+Length: 2.01 minutes
+Genre: R&B
+Restriction: E
+-------------------------------
+-------------------------------
+Name: First_Of_The_Year
+Artist: Cuco
+Year Released: 2022
+Length: 2.5 minutes
+Genre: Pop
+Restriction: None
+-------------------------------
+-------------------------------
+Name: Her
+Artist: eery
+Year Released: 2016
+Length: 2 minutes
+Genre: Other
+Restriction: None
+-------------------------------
+-------------------------------
+Name: Cherry_Wine
+Artist: grentperez
+Year Released: 2021
+Length: 2.3 minutes
+Genre: Alternative
+Restriction: None
+-------------------------------
+-------------------------------
+Name: Airplane_Mode
+Artist: Limbo
+Year Released: 2018
+Length: 2.45 minutes
+Genre: Pop
+Restriction: E
+-------------------------------
+-------------------------------
+Name: Resonance
+Artist: Home
+Year Released: 2014
+Length: 3.33 minutes
+Genre: Alternative
+Restriction: None
+-------------------------------
+Playlist: RockAndRoll
+-------------------------------
+Name: Thunderstruck
+Artist: AC/DC
+Year Released: 1990
+Length: 3.5 minutes
+Genre: Rock
+Restriction: None
+-------------------------------
+-------------------------------
+Name: Summer_of_69
+Artist: Bryan_Adams
+Year Released: 1984
+Length: 3.5 minutes
+Genre: Rock
+Restriction: None
+-------------------------------
+-------------------------------
+Name: Eye_of_the_Tiger
+Artist: Survivor
+Year Released: 1982
+Length: 4.1 minutes
+Genre: Rock
+Restriction: None
+-------------------------------
+-------------------------------
+Name: Cold_As_Ice
+Artist: Foreigner
+Year Released: 1977
+Length: 3.3 minutes
+Genre: Rock
+Restriction: None
+-------------------------------
+-------------------------------
+Name: Glory_Days
+Artist: Bruce_Springsteen
+Year Released: 1984
+Length: 4.3 minutes
+Genre: Rock
+Restriction: None
+-------------------------------
